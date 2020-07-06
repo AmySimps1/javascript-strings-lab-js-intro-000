@@ -1,10 +1,10 @@
-var greeting = "Hello, everybody!";
+var tgreeting = "Hello, everybody!";
 
-var specialGuest = "Neil deGrasse Tyson"
+var tspecialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "Hello, " + specialGuest + "!";
+var tgreetSpecialGuest = "Hello, " + specialGuest + "!";
 
-var topic = "space";
+var ttopic = "space";
 
 var conversation = `Let's talk about ${topic}.`;
 /*global concatenatedString, describe, interpolatedString, it, myString 
